@@ -6,6 +6,7 @@
   - [counter](./part1/counter)
 - [Part 2: Communicating with server](./part2)
   - [phonebook-frontend](./part2/phonebook_frontend)
+  - [2.1-2.5: Course Infomation](./part2/course_info)
   - [2.12-2.14: Data for countries](./part2/countries)
   - [notesapp-frontend](./part2/notes_frontend)
 - [Part 3: Programming a server with NodeJS and Express](./part2)
