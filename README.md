@@ -4,3 +4,5 @@
 ## Table of Content
 - [Part 1: Introduction to React](./part1)
   - [counter](./part1/counter)
+- [Part 2: Communicating with server](./part2)
+  - [phonebook-frontend](./part2/phonebook_frontend)
