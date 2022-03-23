@@ -6,3 +6,4 @@
   - [counter](./part1/counter)
 - [Part 2: Communicating with server](./part2)
   - [phonebook-frontend](./part2/phonebook_frontend)
+  - [2.12-2.14: Data for countries](./part2/countries)
