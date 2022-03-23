@@ -7,3 +7,8 @@
 - [Part 2: Communicating with server](./part2)
   - [phonebook-frontend](./part2/phonebook_frontend)
   - [2.12-2.14: Data for countries](./part2/countries)
+  - [notesapp-frontend](./part2/notes_frontend)
+- [Part 3: Programming a server with NodeJS and Express](./part2)
+  - [3.1-3.22 phonebook-frontend](./part2/phonebook_frontend)
+  - [phonebook-backend](./part3/phonebook_backend)
+  - [notesapp-backend](./part3/notesapp_backend)
