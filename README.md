@@ -21,3 +21,8 @@
   - [redux-notes](./part6/redux-notes)
   - [6.1-6.2: unicafe revisited](https://github.com/Jooliashi/unicafe-redux)
   - [6.3-6.21: anecdotes](https://github.com/Jooliashi/anecdotes-redux)
+- [Part 7: React router, custom hooks, styling app with CSS and webpack](./part7)
+  - [7.1-7.6: routed anecdotes](https://github.com/Jooliashi/routed-anecdotes)
+  - [7.7: country hook](https://github.com/Jooliashi/country-hook)
+  - [7.8: ultimate hooks](https://github.com/Jooliashi/ultimate-hooks)
+  - [7.9-7.21: redux, view, navigation, comments](https://github.com/Jooliashi/bloglist-frontend)
